@@ -18,10 +18,13 @@
  * Brazilian Portuguese strings for block_greeting.
  *
  * @package    block_greeting
- * @copyright  2026 gh codespace ports visibility 8000:public -c "$CODESPACE_NAME" 2>/dev/null; bash .devcontainer/serve.sh || true
+ * @copyright  2026
  * @license    https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'greeting';
+$string['greeting'] = 'Olá!';
+$string['greeting:addinstance'] = 'Adicionar um novo bloco de saudação';
+$string['greeting:myaddinstance'] = 'Adicionar um novo bloco de saudação ao Painel';
+$string['pluginname'] = 'Saudação';
